@@ -1,3 +1,2 @@
-这是昊虹图像处理算法的个人主页！
-这是昊虹图像处理算法的个人主页！
-[点此访问昊虹图像处理算法的CSDN博客。](https://blog.csdn.net/wenhao_ir)
+# Biography
+I'm a CS graduate student at Huazhong University of Science and Technology, under the guidance of [Xianzhi Li](https://nini-lxz.github.io/). 
